@@ -38,4 +38,6 @@ type Tx = []byte
 // Batch is a collection of transactions
 type Batch struct {
 	Transactions []Tx
+	Height uint64
+	Namespace string
 }
