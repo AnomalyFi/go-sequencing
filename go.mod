@@ -1,9 +1,10 @@
-module github.com/rollkit/go-sequencing
+module github.com/AnomalyFi/go-sequencing
 
 go 1.21.0
 
 require (
 	github.com/gogo/protobuf v1.3.2
+	github.com/rollkit/go-sequencing v0.0.0-20240719145307-0166b8267e96
 	google.golang.org/grpc v1.65.0
 )
 
