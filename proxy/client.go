@@ -7,8 +7,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	"github.com/rollkit/go-sequencing"
-	proxygrpc "github.com/rollkit/go-sequencing/proxy/grpc"
+	"github.com/AnomalyFi/go-sequencing"
+	proxygrpc "github.com/AnomalyFi/go-sequencing/proxy/grpc"
 )
 
 // NewClient creates a new Sequencer client.

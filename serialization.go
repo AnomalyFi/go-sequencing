@@ -1,7 +1,7 @@
 package sequencing
 
 import (
-	pbseq "github.com/rollkit/go-sequencing/types/pb/sequencing"
+	pbseq "github.com/AnomalyFi/go-sequencing/types/pb/sequencing"
 )
 
 // ToProto serializes a batch to a protobuf message.

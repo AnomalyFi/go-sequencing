@@ -16,4 +16,4 @@ require (
 	google.golang.org/protobuf v1.34.2 // indirect
 )
 
-replace github.com/rollkit/go-sequencing v0.0.0-20240719145307-0166b8267e96 => github.com/AnomalyFi/go-sequencing v0.0.1
+replace github.com/rollkit/go-sequencing v0.0.0-20240719145307-0166b8267e96 => github.com/AnomalyFi/go-sequencing v0.0.2

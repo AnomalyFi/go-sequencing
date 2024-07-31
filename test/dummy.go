@@ -7,7 +7,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/rollkit/go-sequencing"
+	"github.com/AnomalyFi/go-sequencing"
 )
 
 // ErrorRollupIdMismatch is returned when the rollup id does not match

@@ -5,8 +5,8 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/rollkit/go-sequencing"
-	pbseq "github.com/rollkit/go-sequencing/types/pb/sequencing"
+	"github.com/AnomalyFi/go-sequencing"
+	pbseq "github.com/AnomalyFi/go-sequencing/types/pb/sequencing"
 )
 
 // Client is a gRPC proxy client for DA interface.
