@@ -5,9 +5,9 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/rollkit/go-sequencing"
+	"github.com/AnomalyFi/go-sequencing"
 
-	pbseq "github.com/rollkit/go-sequencing/types/pb/sequencing"
+	pbseq "github.com/AnomalyFi/go-sequencing/types/pb/sequencing"
 )
 
 // NewServer creates a new gRPC server for the Sequencer service.
