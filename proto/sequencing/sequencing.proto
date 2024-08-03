@@ -1,5 +1,7 @@
 syntax = "proto3";
-package rollkit;
+package sequencing;
+
+option go_package = "github.com/AnomalyFi/go-sequencing/types/pb/sequencing";
 
 // SequencerInput ...
 service SequencerInput {
